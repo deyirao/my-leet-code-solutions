@@ -9,7 +9,7 @@ A collection of solutions for LeetCode problems that I solved by myself.
 * No tests were written.
 
 ### Example: Solution for "FizzBuzz"
-```Apex
+```ChucK
     public List<String> fizzBuzz(int n) {
         String[] answer = new String[n];
 
@@ -26,4 +26,4 @@ A collection of solutions for LeetCode problems that I solved by myself.
 }
 ```
 
-*~ author Deyi Rao*
+~ author Deyi Rao
