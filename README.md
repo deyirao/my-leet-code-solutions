@@ -1,4 +1,4 @@
-# My-Leet-Code-Solutions
+# My-Leet-Code
 A collection of solutions for LeetCode problems that I solved by myself.
 
 ### Coding Information
